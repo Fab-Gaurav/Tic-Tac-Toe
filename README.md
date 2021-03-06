@@ -6,6 +6,6 @@
 
 Working on:
 
--  Moving ahead from command base to GUI
-
 - Multiplayer mode
+
+- Moving ahead from command line to intractive GUI
